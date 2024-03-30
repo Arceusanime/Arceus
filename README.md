@@ -1,4 +1,4 @@
 # Arceus
 First repo
 <br>
-Auhor - Arceus
+Auhor - Arceusanime
